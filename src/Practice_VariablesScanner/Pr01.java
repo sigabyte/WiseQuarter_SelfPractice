@@ -14,5 +14,6 @@ public class Pr01 {
 
         System.out.println("giridiginiz deger " + num + " bir integer");
         System.out.println("girdinginiz degr " + dbl + " bir double");
+        System.out.println("Tesekkurler ederiz");
     }
 }
